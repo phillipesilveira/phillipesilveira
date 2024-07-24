@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on (looking for an application)
 - 📫 How to reach me: Facebook, Instagram and LinkedIn
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I'm studying Korean (Hangul).
 
 <!---
 phillipesilveira/phillipesilveira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
